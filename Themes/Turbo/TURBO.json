@@ -76,6 +76,9 @@
 		"BACKGROUND_MOBILE_SECONDARY": [
             "#000000"
         ],
+		"BACKGROUND_BASE_LOWEST": [
+            "#000000"
+        ],
 		"BACKGROUND_MOBILE_FLOATING": [
             "#404040"
         ],
