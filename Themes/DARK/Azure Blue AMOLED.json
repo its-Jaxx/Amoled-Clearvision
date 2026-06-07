@@ -98,7 +98,7 @@
 		"EMBED_BACKGROUND": [
             "#181818D0"
         ],
-		"BACKGROUND_MENTIONED": [
+		"MESSAGE_MENTIONED_BACKGROUND_DEFAULT": [
             "#2196F340"
         ],
 		"BG_SURFACE_OVERLAY_TMP": [
